@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "551065730747",
+    "firebase_url": "https://tell-it-938f2.firebaseio.com",
+    "project_id": "tell-it-938f2",
+    "storage_bucket": "tell-it-938f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551065730747:android:e6f9ace49a226342",
+        "android_client_info": {
+          "package_name": "com.example.inicumalatihan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551065730747-6i0jge79i01l28i7g60if8bhcmi55fg6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.inicumalatihan",
+            "certificate_hash": "b82061f76bef69622ffc57a0f49394380c7c0a20"
+          }
+        },
+        {
+          "client_id": "551065730747-5r1vp8cki4ni1cl6p2vralmeth8obuli.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSIW-3RiYYhKjygzS29TJzcis7E-9Vmfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551065730747-5r1vp8cki4ni1cl6p2vralmeth8obuli.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

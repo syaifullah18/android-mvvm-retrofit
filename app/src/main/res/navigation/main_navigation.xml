@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            xmlns:tools="http://schemas.android.com/tools" android:id="@+id/main_navigation"
+            app:startDestination="@id/home2">
+    <fragment android:id="@+id/home2" android:name="com.example.inicumalatihan.ui.fragment.Home"
+              android:label="fragment_home" tools:layout="@layout/fragment_home">
+        <action android:id="@+id/action_home2_to_post" app:destination="@id/post"/>
+    </fragment>
+    <fragment android:id="@+id/post" android:name="com.example.inicumalatihan.ui.fragment.Post"
+              android:label="fragment_post" tools:layout="@layout/fragment_post"/>
+</navigation>
